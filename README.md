@@ -1,5 +1,4 @@
 # XFlix
-XFlix is a video sharing platform which hosts videos for the world to watch. It also features uploading new videos by using external video links (eg: Youtube) and playing these videos.
 
 During the course of this Micro-Experience:
 
